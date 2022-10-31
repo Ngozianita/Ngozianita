@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngozianita
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Projects
+- 👀 I’m a Data Scientist Who is passionate about using Statistics to draw insights and predict future occureance.
+- 🌱 I’m currently learning Python programming,SQL
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Ihemadungozianita@gmail.com
 
 <!---
